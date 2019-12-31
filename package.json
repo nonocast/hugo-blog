@@ -1,0 +1,12 @@
+{
+  "name": "hugo-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nonocast/hugo-blog.git",
+  "author": "Hui Cao <nonocast@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "hugo serve -D",
+    "publish": "./deploy.sh"
+  }
+}

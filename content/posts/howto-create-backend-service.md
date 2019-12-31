@@ -1,7 +1,7 @@
 +++
-title = "如何构建一个完整的后台服务?"
+title = "构建完整web服务 - index"
 date = 2019-12-31T19:41:35+08:00
-draft = true
+draft = false
 tags = []
 categories = []
 +++
@@ -12,6 +12,7 @@ categories = []
 - Koajs
 
 ## 方面
+- 类型检查
 - 文档
 - 日志
 - 单元测试
