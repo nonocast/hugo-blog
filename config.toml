@@ -1,0 +1,13 @@
+baseURL = "http://nonocast.cn/"
+languageCode = "en-us"
+title = "nonocast"
+theme = "hugo-kiera"
+publishdir = "public"
+
+
+pygmentsCodeFences = true
+
+[author]
+    name = "nonocast"
+    github = "nonocast"
+    twitter = "@nonocast"
