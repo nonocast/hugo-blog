@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nonocast.cn/posts/my-first-post/</loc>
-    <lastmod>2019-12-31T16:54:33+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://nonocast.cn/</loc>
-    <lastmod>2019-12-31T16:54:33+08:00</lastmod>
+    <lastmod>2019-12-31T19:41:35+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://nonocast.cn/posts/</loc>
+    <lastmod>2019-12-31T19:41:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nonocast.cn/posts/howto-create-backend-service/</loc>
+    <lastmod>2019-12-31T19:41:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nonocast.cn/posts/hello-world-hugo/</loc>
     <lastmod>2019-12-31T16:54:33+08:00</lastmod>
   </url>
   
