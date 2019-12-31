@@ -1,0 +1,25 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>nonocast</title>
+   <link>http://nonocast.cn/</link>
+   <description>Recent content on nonocast</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   <lastBuildDate>Tue, 31 Dec 2019 16:54:33 +0800</lastBuildDate>
+   
+       <atom:link href="http://nonocast.cn/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>My First Post</title>
+       <link>http://nonocast.cn/posts/my-first-post/</link>
+       <pubDate>Tue, 31 Dec 2019 16:54:33 +0800</pubDate>
+       
+       <guid>http://nonocast.cn/posts/my-first-post/</guid>
+       <description>&lt;p&gt;hello world&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
+</rss>
