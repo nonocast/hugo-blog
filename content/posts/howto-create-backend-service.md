@@ -6,12 +6,18 @@ tags = []
 categories = []
 +++
 
+尝试从minial的webapp搭建一个完整的产品级别的后台服务。
+
+<!--more-->
+
 ## 环境
 - javascript
 - Nodejs
 - Koajs
 
 ## 方面
+- 开发环境 (vscode, prettier, eslint)
+- 配置
 - 类型检查
 - 文档
 - 日志

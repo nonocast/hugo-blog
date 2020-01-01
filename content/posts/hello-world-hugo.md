@@ -6,6 +6,10 @@ tags = []
 categories = []
 +++
 
+hugo blog 基本操作。
+
+<!--more-->
+
 ## Add Some Content 
 
 ```sh
