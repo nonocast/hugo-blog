@@ -72,3 +72,6 @@ class App {
 ```
 
 然后关键词参考官网就行了, 移步 [Use JSDoc: Index](https://jsdoc.app/index.html)
+
+参考:
+- [JSDoc在Node.js下的部署 - 简书](https://www.jianshu.com/p/aae85ef3513c)

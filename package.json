@@ -7,6 +7,6 @@
   "license": "MIT",
   "scripts": {
     "start": "hugo serve -D",
-    "publish": "./deploy.sh"
+    "deploy": "./deploy.sh"
   }
 }
