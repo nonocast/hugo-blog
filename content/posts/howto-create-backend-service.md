@@ -15,12 +15,13 @@ categories = []
 - Nodejs
 - Koajs
 
-## 方面
-- 开发环境 (vscode, prettier, eslint)
-- 配置
-- 类型检查
-- 文档
-- 日志
+## 话题
+- 类型检查 (schema)
+- 配置 (config)
+- 日志 (logging)
+- 文档 (jsdoc)
+
+- 开发环境 (vscode)
 - 单元测试
 - 验证和授权
 - 部署

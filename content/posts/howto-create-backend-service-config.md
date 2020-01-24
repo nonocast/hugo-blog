@@ -89,3 +89,5 @@ dotenv略有不同,
 - 或者手动指定path, 但不会默认加载.env
 
 最后, .env会涉及隐私, 所以需要在.gitignore中排除.env*。
+
+具体代码见[nonocast/hello-node-config](https://github.com/nonocast/hello-node-config)
