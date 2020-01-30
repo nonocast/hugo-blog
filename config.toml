@@ -3,9 +3,10 @@ languageCode = "en-us"
 title = "nonocast"
 theme = "hugo-kiera"
 publishdir = "public"
-
-
 pygmentsCodeFences = true
+
+[markup.goldmark.renderer]
+    unsafe = true
 
 [author]
     name = "nonocast"
