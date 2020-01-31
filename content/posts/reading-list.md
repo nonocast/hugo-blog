@@ -28,3 +28,7 @@ Crash Course出品的41集计算机通识, 差不多帮你刷了一遍大学课�
 <img src="/img/reading-list-02.jpg" style="width:60%" />
 
 - [bilibili](https://www.bilibili.com/video/av9912938)
+
+
+扩展参考:
+- [值得留给子孙后代的计算机课程 - 知乎](https://zhuanlan.zhihu.com/p/39030715)
