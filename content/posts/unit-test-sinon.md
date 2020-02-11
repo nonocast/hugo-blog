@@ -110,3 +110,6 @@ describe.skip("hello sinon", () => {
   });
 });
 ```
+
+参考:
+- [Mongoose 单元测试: 权威指南| CodeUtopia - 众成翻译](https://www.zcfy.cc/article/mongoose-models-and-unit-tests-the-definitive-guide-codeutopia)
